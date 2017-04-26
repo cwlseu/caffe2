@@ -104,3 +104,12 @@ Other
 - [x] CMake 2.8 support
 - [x] List of dependencies for Ubuntu 14.04
 - [x] List of dependencies for OS X
+
+## Compare with caffe
+Note that this is not meant for a complete replacement for Caffe right 
+now. You are more than welcome to try it and we appreciate much if you 
+could contribute back, but a lot of things may still be missing (e.g. 
+CuDNN) so expect a few bumps as an early adopter. Caffe is still stably 
+supported and for a production environment you may want to continue 
+using it.
+
